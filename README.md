@@ -1,3 +1,7 @@
+Hi there, hope you're good.
+Welcome to my GitHub profile!
+I'm Hamza, Web developer from  Karachi, Pakistan.
+
 - 👋 Hi, I’m @hamzashamim1
 - 👀 I’m interested in doing coding
 - 🌱 I’m currently learning AI Voice Chatbots 
